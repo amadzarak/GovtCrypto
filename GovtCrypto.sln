@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GovtCrypto", "GovtCrypto\GovtCrypto.csproj", "{A52C7F8F-62BD-46F8-B42C-EC0700A99D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{7A02CB9C-97FB-402B-AA1F-F2414E76D800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A52C7F8F-62BD-46F8-B42C-EC0700A99D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52C7F8F-62BD-46F8-B42C-EC0700A99D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52C7F8F-62BD-46F8-B42C-EC0700A99D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52C7F8F-62BD-46F8-B42C-EC0700A99D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A02CB9C-97FB-402B-AA1F-F2414E76D800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A02CB9C-97FB-402B-AA1F-F2414E76D800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A02CB9C-97FB-402B-AA1F-F2414E76D800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A02CB9C-97FB-402B-AA1F-F2414E76D800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
